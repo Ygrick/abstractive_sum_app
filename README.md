@@ -5,7 +5,7 @@ https://drive.google.com/drive/folders/1_R28JvmcT05ZtkNixGp_O7wBbeZ8pP7r?usp=sha
 venv
 ```
 python -m venv venv
-venv\Scripts\activate.bat
+venv\Scripts\activate.bat или venv\Scripts\activate
 ```
 Зависимости
 ```
@@ -14,5 +14,5 @@ pip install -r requirements.txt
 
 Запуск программы
 ```
-python src/main.py
+python app.py
 ```
